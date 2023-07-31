@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.5.1//EN
+N:Hediger;Joe;;;
+FN:Joe Hediger
+ORG:Caesar Kleberg Wildlife Research Institute ;
+TITLE:Graduate Research Assistant
+item1.EMAIL;type=INTERNET;type=pref:joseph.hediger@students.tamuk.edu
+item1.X-ABLabel:Work
+item2.ADR;type=pref:;;;Kingsville ;Texas;78363;United States
+item2.X-ABLabel:Work
+X-SOCIALPROFILE;type=linkedin;x-userid=817828678:https://www.linkedin.com/in/joseph-hediger-59aa801a9
+END:VCARD
